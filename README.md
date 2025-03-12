@@ -13,6 +13,6 @@
 3. Когда таймер закончится, появится уведомление.
 
 ## Установка
-```bash
-npm install
-npm run dev
+Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/Staiisha/egg-timer.git
